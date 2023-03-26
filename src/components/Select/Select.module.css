@@ -1,0 +1,23 @@
+.select.main{
+    border: 1px black solid;
+    display: inline-block;
+    min-height: 20px;
+    min-width: 40px;
+}
+
+.items{
+    position: absolute;
+    padding: 5px;
+    border: 1px black solid;
+}
+
+.item{
+    background-color: deeppink;
+    color: white;
+
+}
+
+.items.select{
+    color: #1ea7fd;
+    background-color: #66bf3c;
+}
